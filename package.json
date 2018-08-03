@@ -1,0 +1,8 @@
+{
+  "name": "js_bits",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.4.2"
+  }
+}
